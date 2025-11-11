@@ -8,7 +8,7 @@ Qui sotto ci saranno tutte le voci di cui avrete bisogno:
 
 ## 📚 Documentazione
 
-- [Introduzione](<documento(1).pdf>)  
+- [Introduzione](<documento (1).pdf>)  
   su questo file word abbiamo parlato della storia della tavola periodica nel tempo e di come si è evoluta.
   Altri temi trattati sono la massa atomica e composti seplici ,molto importanti per la comrensione del nostro lavoro
   questi compito è stato svolto da colui che si occupava della documentazione, Mattia Carnevali
