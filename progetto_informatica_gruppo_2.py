@@ -114,3 +114,4 @@ else:
     print("Nessuna formula valida inserita.")
 
 #spero che il nostro modo di lavorare vi sia piaciuto ,un saluto
+
