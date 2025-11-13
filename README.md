@@ -25,7 +25,7 @@ Qui sotto ci saranno tutte le voci di cui avrete bisogno:
 1)nel mentre Mattia (colui che documenta) si occupava della introduzione teorica MArgherita e Riccardo si sono occupati 
 sulla formattazione del codice pensando a come risolvere il problema piu grande: INSERIRE TUTTI GLI ELRMENTI NELLA TAVOLA PERIODICA,
 abbiamo subito scartato l'opzione di scrivere tutti i 118 elementi in un dizionario perchè sarebbe stato impossibile e occupava troppo tempo farlo,
-quindi cercando su internet abbiamo una libreria che faceva proprio al caso nostro , "peiodic_table" questa libreria
+quindi cercando su internet abbiamo trovato una libreria che faceva proprio al caso nostro , "peiodic_table" questa libreria
 implementava tutta la tavola periodica nel codice senza  che noi ci scomodavamo a scrivere niente,però, ogni facilità 
 ha le sue complicazioni: dovevamo lavorare completamente sui una cosa che il professore non aveva mai spiegato o accennato.
 
